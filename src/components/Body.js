@@ -25,7 +25,7 @@ export default function body(){
 
             <div className="card-body items-center text-center">
                 <p className="text-xl">Download Videos or an entire playlist from Youtube</p>
-                <div className="flex w-full m-auto mt-5 Ymb-24">
+                <div className="flex w-full m-auto mt-5 mb-64">
                     <input 
                         type="text" 
                         placeholder="Enter url here | https://www.youtube.com/watch?v=mH5fXUZyfpE" 
